@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3365ec18de05a61479c51e8c6441b8ae, type: 3}
+  m_Name: Health
+  m_EditorClassIdentifier: 
+  name: Item
+  itemCategory: 2
+  itemPrefab: {fileID: 6284059814159035683, guid: 9b9e0bc5f345ac642be2d7ea9a28bf03, type: 3}
+  stackable: 1
+  maxSize: 2
+  amountValue: 2
+  effect: 25
